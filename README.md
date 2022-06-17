@@ -1,1 +1,1 @@
-# Fandango_movie_review_analysis
+# Fandango_Movie_Score_Analysis
